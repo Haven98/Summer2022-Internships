@@ -338,7 +338,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 [HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
 [Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
 [Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
-|[Square](https://jobs.smartrecruiters.com/Square/743999777812128-software-engineer-intern-summer-2022)|San Francisco, CA|Software Engineer Intern|
+|<del>Square</del> |  | **Closed** |
 [T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
 |<del>American Airlines</del> | | **Closed** |
 |[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
@@ -363,7 +363,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[MailChimp](https://boards.greenhouse.io/mailchimp/jobs/3494609) | Atlanta, GA | Android Intern, [IOS Intern](https://boards.greenhouse.io/mailchimp/jobs/3494608) |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/details/XMLNAME-2022-Intern---Software-Development-Intern_R116000?q=intern) | San Jose, CA | Software Development Intern |
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3470041) | San Francisco, CA; Bellevue, WA; Chicago, IL | Software Engineering Intern |
-|[Airbnb](https://careers.airbnb.com/positions/3515684&gh_src=34ewj2/) | San Francisco, CA | Software Engineer Intern |
+|<del>Airbnb</del> | San Francisco, CA | **Closed** <del>Software Engineer Intern</del> |
 
 
 **We love our contributors ❤️❤️**
@@ -426,3 +426,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [matthewbrown77](https://www.github.com/matthewbrown77)
 * [nikhilkala](https://www.github.com/nikhilkala)
 * [ayoung19](https://github.com/ayoung19)
+* [alexypdu](https://github.com/alexypdu)
